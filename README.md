@@ -1,1 +1,1 @@
-# tarefa-terceira-semana
+Esta semana, aprendemos sobre estruturas condicionais, escopos e funções; são alguns assuntos que eu já tinha estudado, mas revisar esses conteúdos foi bastante importante pra mim, ainda mais em uma nova linguagem como javascript, a qual ainda estou me adaptando; Ansiosa pela próxima aula!
