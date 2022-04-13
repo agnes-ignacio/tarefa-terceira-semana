@@ -9,4 +9,4 @@ function divideNumero (num1, num2) {
         return `O resultado da divisão é ${resultado}.`
     }
 }
-console.log(divideNumero(6, 3))
+console.log(divideNumero(9, 3))
